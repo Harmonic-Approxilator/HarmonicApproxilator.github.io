@@ -25,8 +25,8 @@ description              : "My personnal website where I talk about myself, and 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "test/assets/images/8mu2ok.jpg"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : #
+logo                     : "test/assets/images/8mu2ok.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -89,8 +89,8 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
+twitter: 
+  username               : "XXX"
 facebook:
   username               :
   app_id                 :
@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a PhD student in theoretical and mathematical physics, mainly interested in gravitation, electrodynamics and how to make my own shithole of a website."
   location         : "Orléans, France"
-  email            :
+  email            : "blablabla@gmail.couille"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
