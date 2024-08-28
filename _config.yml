@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : #"Abedennour Dib"
+title                    : "Abedennour Dib"
 title_separator          : "|"
 subtitle                 : #"PhD student in Theoretical and Mathematical physics"
 name                     : "Abedennour (Hakim) Dib"
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Abedennour (Hakim) Dib"
-  avatar           : "test/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am a PhD student in theoretical and mathematical physics, mainly interested in gravitation, electrodynamics and how to make my own shithole of a website."
   location         : "Orléans, France"
   email            : "blablabla@gmail.couille"
