@@ -25,8 +25,8 @@ description              : "My personnal website where I talk about myself, and 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : test/assets/images/bio-photo-2.jpg
-logo                     : test/assets/images/8mu2ok.jpg
+teaser                   : "test/assets/images/bio-photo-2.jpg"
+logo                     : "test/assets/images/8mu2ok.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -127,7 +127,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       #url: "put it there comrade"
+       url: "https://x.com/harmonic_approxilator"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
