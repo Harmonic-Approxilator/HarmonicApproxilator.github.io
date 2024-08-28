@@ -25,7 +25,7 @@ description              : "My personnal website where I talk about myself, and 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : test/assets/images/500x300.png
+teaser                   : test/assets/images/bio-photo-2.jpg
 logo                     : test/assets/images/8mu2ok.jpg
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
