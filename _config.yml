@@ -114,14 +114,14 @@ analytics:
 # Site Author
 author:
   name             : "Abedennour (Hakim) Dib"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "test/assets/images/bio-photo.jpg"
   bio              : "I am a PhD student in theoretical and mathematical physics, mainly interested in gravitation, electrodynamics and how to make my own shithole of a website."
   location         : "Orléans, France"
   email            : "blablabla@gmail.couille"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "something@gmail.com"
+      #url: "something@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -143,7 +143,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "agh"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
