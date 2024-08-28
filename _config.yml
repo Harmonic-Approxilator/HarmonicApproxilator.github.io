@@ -17,16 +17,16 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Hakim Dib"
-title_separator          : "-"
+title                    : "Abedennour Dib"
+title_separator          : "|"
 subtitle                 : "PhD student in Theoretical and Mathematical physics"
 name                     : "Abedennour (Hakim) Dib"
 description              : "My personnal website where I talk about myself, and research and shit."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : #
-logo                     : "test/assets/images/8mu2ok.jpg"
+teaser: /assets/images/500x300.png
+logo                     : tests/assets/images/8mu2ok.jpg
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
